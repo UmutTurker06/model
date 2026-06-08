@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       diger       0.00      0.00      0.00         0
+   yuk_araci       1.00      1.00      1.00       404
+
+    accuracy                           1.00       404
+   macro avg       0.50      0.50      0.50       404
+weighted avg       1.00      1.00      1.00       404
